@@ -19,7 +19,7 @@ header > h1 {
 }
 body {
     margin-right: 400px;
-    margin-left: 300px;
+    margin-left: 500px;
 }
 
 p{
@@ -101,7 +101,6 @@ html{
     transform: translateY(-50%);    
 }
 
-/* Animation */
 .anim-typewriter{
   animation: typewriter 3s steps(44) 1s 1 normal both,
              blinkTextCursor 500ms steps(44) infinite normal;
